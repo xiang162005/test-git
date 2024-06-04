@@ -7,3 +7,5 @@
 feature1 1.
 
 feature2 3.
+
+feature3 4.
