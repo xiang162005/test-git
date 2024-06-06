@@ -13,3 +13,5 @@ feature3 4.
 conflict master 1.
 
 conflict master 2.
+
+conflict master 3.
